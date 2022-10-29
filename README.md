@@ -1,6 +1,8 @@
-# Project Lyrics
+# react-spotify-music-app
 
 [view my work](https://react-spotify-web.netlify.app)<br><br>
+
+# Project Lyrics
 
 Develop an elegant React.js Music Application. 
 
